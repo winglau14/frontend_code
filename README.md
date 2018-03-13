@@ -80,7 +80,7 @@ font-size:0.6px;（没空格的），font-size: 0.6px;（有空格的）
 * 项目文件夹：projectname
 * 样式文件夹：css or style
 * 脚本文件夹：js
-* 样式类图片文件夹：img or image
+* 样式类图片文件夹：imgs or images
 ##### 5.2.图片命名
 图片功能类别+'_'+名称
 ```
