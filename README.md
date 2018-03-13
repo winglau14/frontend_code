@@ -143,14 +143,14 @@ var fooItem = new Foo()
 不推荐 <br/>
 ```js
 data:{
-	name:‘张三’,
-	age: 12，
+	name:'张三',
+	age:12，
 }
 ```
 推荐 <br/>
 ```js
 data:{
-	name:‘张三’,
+	name: '张三',
 	age: 12
 }
 ```
