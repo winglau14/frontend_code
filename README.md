@@ -6,7 +6,7 @@
 >
 ##### 1.1.结构说明
 >
-![结构说明](https://gitee.com/winglau/frontend_code_specification/raw/master/dir_img.png)
+![结构说明](https://raw.githubusercontent.com/winglau14/frontend_code/master/dir_img.png)
 
 #### 2.HTML规范
 >基于 W3C、苹果开发者 等官方文档，并结合团队业务和开发过程中总结的规范约定，让页面HTML代码更具语义性。
