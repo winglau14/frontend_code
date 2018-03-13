@@ -180,3 +180,5 @@ function func (x) {
   // ...
 }
 ```
+##### 6.10.es5编码规范
+![es5编码规范](https://github.com/yuche/javascript)
